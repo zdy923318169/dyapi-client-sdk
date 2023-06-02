@@ -21,7 +21,7 @@ import static com.dy.dyapiclientsdk.until.SignUntil.genSign;
  * 调用第三方接口的客户端
  */
 public class DeyApiClient {
-    private static final String GATEWAY_HOST = "http://localhost:8090";
+    private static final String GATEWAY_HOST = "http://175.178.110.167:8090";
 
     private String accessKey;
 
